@@ -1,0 +1,8 @@
+Firstly we should intilazie git repository in our local workspace
+--->  git init
+
+2. we should develop code in our local workspace
+3. then we should add the code
+  -->  git add .
+4. if we want see the status of code
+  -->  git status
