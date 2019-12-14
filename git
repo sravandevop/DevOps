@@ -1,0 +1,5 @@
+7. if we want to create a new branch
+   --> git checkout -b branch name
+
+8. if we want change existing branch
+  --> git checkout branch name
