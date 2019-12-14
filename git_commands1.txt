@@ -1,0 +1,5 @@
+5. we Should commit the develop the code
+  --> git commit -m "commit message"
+
+6. then we should push the in remote branch
+  --> git push origin branch name
